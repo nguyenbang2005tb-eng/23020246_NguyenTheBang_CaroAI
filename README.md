@@ -48,14 +48,19 @@ caro-ai/
 ├── README.md            # File hướng dẫn sử dụng project
 ├── requirements.txt     # Danh sách thư viện cần cài đặt
 └── utils.py             # Các hàm hỗ trợ dùng chung
+```
 
 File chính dùng để chạy chương trình là:
+```text
 main.py
+```
 🎮 Cách chạy chương trình 
 Để chơi Caro với AI, hãy chạy các lệnh sau:
+```text
 git clone https://github.com/nguyenbang2005tb-eng/23020246_NguyenTheBang_CaroAI.git
 cd 23020246_NguyenTheBang_CaroAI
 python main.py
+```
 Sau khi chạy chương trình thành công, giao diện chính của trò chơi Caro AI sẽ xuất hiện. Tại màn hình bắt đầu, người chơi có thể lựa chọn chế độ chơi và thiết lập độ sâu tìm kiếm cho thuật toán AI.
 
 Người chơi có thể chọn một trong các chế độ sau:
