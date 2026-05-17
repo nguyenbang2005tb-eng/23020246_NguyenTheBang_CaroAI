@@ -30,6 +30,7 @@ Chương trình có giao diện trực quan, hỗ trợ hiển thị:
 - Python 3.x
 - Thư viện Pygame: 
 > pip install pygame
+
 📂 Cấu trúc thư mục
 Project gồm các file chính như sau:
 
