@@ -48,6 +48,7 @@ caro-ai/
 ├── README.md            # File hướng dẫn sử dụng project
 ├── requirements.txt     # Danh sách thư viện cần cài đặt
 └── utils.py             # Các hàm hỗ trợ dùng chung
+
 File chính dùng để chạy chương trình là:
 main.py
 🎮 Cách chạy chương trình 
